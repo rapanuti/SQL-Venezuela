@@ -13,4 +13,5 @@ En la actualidad, los códigos ISO 3166-2 para Venezuela se definen para 1 Distr
 Informacion Fuente 
 [ISO_3166-2:VE](https://es.wikipedia.org/wiki/ISO_3166-2:VE)
 
-![Logo]([https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Venezuela_Orthographic_Map.svg/825px-Venezuela_Orthographic_Map.svg.png](https://c.files.bbci.co.uk/6A32/production/_131568172_bbcm_venezuela_country_profile_map_301023.png))
+
+![Logo](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/DF62/production/_131568175_bbcm_venezuela_country_profile_map_301023.png.webp)
